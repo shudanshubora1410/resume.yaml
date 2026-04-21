@@ -1,0 +1,73 @@
+cv:
+  name: Shudanshu Sanjay Bora
+  location: Greater Noida, India
+  phone: "9978648457"
+  email: shudanshubora1410@gmail.com
+  social_links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/shudanshubora/
+    - label: GitHub
+      url: https://github.com/shudanshubora1410
+    - label: Portfolio
+      url: https://shudanshubora1410.github.io/portfolio-website/
+
+  summary: |
+    Java Full Stack Developer & 3rd-year B.Tech IT student at GLBITM. Specialized in building 
+    production-ready applications with a focus on clean code and DSA. Creator of Cafe Roadway 
+    (43 features) and NovaCare HMS (24 REST APIs). Currently mastering Advanced Java.
+
+  education:
+    - school: GL Bajaj Institute of Technology and Management
+      degree: B.Tech in Information Technology
+      location: Greater Noida, India
+      start_date: 2023-08
+      end_date: 2027-06 (Expected)
+    - school: S. D. Jain Modern School (CBSE)
+      degree: Class 12th (Science - PCM)
+      end_date: 2023
+      highlights: "Marks: 86%"
+    - school: S. D. Jain Modern School (CBSE)
+      degree: Class 10th
+      end_date: 2021
+      highlights: "Marks: 92%"
+
+  skills:
+    - category: Languages
+      list: [Java (Core & Advanced), JavaScript (ES6+), SQL, HTML5, CSS3]
+    - category: Web/Frameworks
+      list: [Node.js, Express.js, Bootstrap 5, jQuery, RESTful APIs]
+    - category: Tools/Databases
+      list: [MySQL, Git/GitHub, JavaMail API, VS Code, Netlify]
+    - category: Core
+      list: [Data Structures & Algorithms, OOPs, Problem Solving]
+
+  projects:
+    - name: Cafe Roadway (Flagship Project)
+      tech: Vanilla JS, HTML5, CSS3, Bootstrap 5
+      link: https://shudanshubora1410.github.io/cafe-roadway
+      highlights:
+        - Engineered a premium restaurant platform with 43+ interactive features.
+        - Built dynamic Bill Calculator with automated GST and WhatsApp API integration.
+        - Integrated JSON-LD Schema for 100% SEO optimization and responsiveness.
+    - name: NovaCare – Hospital Management System
+      tech: Node.js, Express.js, MySQL
+      link: https://github.com/shudanshubora1410/hospital-management-system
+      highlights:
+        - Developed a full-stack HMS with 24 RESTful API endpoints for CRUD operations.
+        - Implemented role-based access control and real-time automated billing.
+    - name: Email Sender Application
+      tech: Java, JavaMail API, Swing
+      highlights:
+        - Built a desktop automation tool using SMTP for secure file-attachment mail sending.
+
+  certifications:
+    - name: Data Structure & Algorithm using Java
+      issuer: Incapp
+      url: https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view?pli=1
+    - name: Java Programming (Core)
+      issuer: Incapp
+      url: https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view
+
+  additional_info:
+    languages: [English (Professional), Hindi (Native)]
+    interests: [Competitive Programming, UI/UX Design, Open Source Contribution]
