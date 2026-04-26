@@ -18,10 +18,10 @@ cv:
   summary: |
     Passionate Java Full Stack Developer and 3rd-year B.Tech IT student at GLBITM, Greater Noida.
     Strong foundation in Core Java, Data Structures & Algorithms, and Full-Stack Web Development.
-    Creator of Cafe Roadway (43+ interactive features in pure Vanilla JS), Homyz (real estate 
-    platform for Delhi NCR with Google Sheets integration), and NovaCare HMS (24 REST APIs with 
-    role-based authentication). Currently mastering Advanced Java (Collections, Multithreading, 
-    File I/O) on the path to becoming a complete Java Full Stack Developer. Open to internship 
+    Creator of Cafe Roadway (43+ interactive features in pure Vanilla JS), Homyz (real estate
+    platform for Delhi NCR with Google Sheets integration), and NovaCare HMS (24 REST APIs with
+    role-based authentication). Currently mastering Advanced Java (Collections, Multithreading,
+    File I/O) on the path to becoming a complete Java Full Stack Developer. Open to internship
     opportunities and real-world collaborations.
 
   education:
@@ -205,6 +205,7 @@ cv:
     - name: Web Development (HTML, CSS, JavaScript, Bootstrap)
       issuer: Incapp IT Training Company
       year: 2024
+      url: https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view
       skills_covered:
         - HTML5 — Semantic Markup, Forms, Tables, Media
         - CSS3 — Flexbox, Grid, Animations, Responsive Design
