@@ -1,27 +1,22 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Resume%20%26%20CV&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Shudanshu%20Bora%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=55&descSize=16" />
-
-</div>
+# 📄 Shudanshu Sanjay Bora — Resume & CV
 
 <div align="center">
 
-![Resume](https://img.shields.io/badge/Resume-One%20Page%20PDF-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Resume](https://img.shields.io/badge/📄_Resume-One%20Page%20PDF-000000?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Typeset-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CV%20Data-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![ATS](https://img.shields.io/badge/ATS-Friendly-10b981?style=for-the-badge)
+![Status](https://img.shields.io/badge/💼_Status-Open%20to%20Internships-00d4ff?style=for-the-badge)
 
-**Professional resume & CV data for Shudanshu Sanjay Bora — Java Full Stack Developer**
+**Professional one-page ATS-friendly resume & structured CV data**
 
-[🌐 Portfolio](https://shudanshubora1410.github.io/portfolio-website/) • [🐙 GitHub](https://github.com/shudanshubora1410) • [💼 LinkedIn](https://www.linkedin.com/in/shudanshubora/)
+[🌐 Portfolio](https://shudanshubora1410.github.io/portfolio-website/) • [🐙 GitHub](https://github.com/shudanshubora1410) • [💼 LinkedIn](https://www.linkedin.com/in/shudanshubora/) • [☕ Cafe Roadway](https://shudanshubora1410.github.io/cafe-roadway) • [🏠 Homyz](https://shudanshubora1410.github.io/Homyz)
 
 </div>
 
 ---
 
-## 👨‍💻 About
-
-This repository contains my **professional resume** and **CV data** as a Java Full Stack Developer in training.
+## 👨‍💻 About Me
 
 | Detail | Info |
 |--------|------|
@@ -39,99 +34,107 @@ This repository contains my **professional resume** and **CV data** as a Java Fu
 
     resume/
     │
-    ├── 📄 main.tex          → LaTeX source file (one-page ATS-friendly resume)
+    ├── 📄 main.tex          → LaTeX source (one-page ATS-friendly resume)
     ├── 📊 cv.yaml           → Complete CV data in structured YAML format
     └── 📝 README.md         → This file
 
 ---
 
-## 📄 Resume Highlights
+## ✨ Resume Features
 
-### ✅ Resume Features
-- **One Page** — Fits perfectly on a single page
-- **ATS Friendly** — Clean structure, no tables for content, proper headings
-- **LaTeX Typeset** — Professional typesetting with precise alignment
-- **Clickable Links** — All GitHub, Live Demo and Certificate links are clickable
-- **Skill Tags** — Pill-shaped skill tags for visual clarity
-- **Black & White** — Printer-friendly design
-- **Honest** — Only lists skills actually learned (no future skills listed)
+- ✅ **One Page** — Fits perfectly on a single A4/Letter page
+- ✅ **ATS Friendly** — Clean structure with proper headings and no complex tables
+- ✅ **LaTeX Typeset** — Professional typesetting with pixel-perfect alignment
+- ✅ **Clickable Links** — GitHub, Live Demo and Certificate links all clickable in PDF
+- ✅ **Pill Skill Tags** — Visual skill tags for easy scanning
+- ✅ **Black & White** — Clean printer-friendly design
+- ✅ **Honest** — Only lists skills actually learned and practiced
+- ✅ **No Future Skills** — Spring Boot, React, JWT etc. not listed (Coming Soon)
 
 ---
 
-## 🏆 Projects Featured
+## 🏆 Featured Projects
 
 ### ☕ Cafe Roadway — Flagship Project
+
+> Premium dark-luxury restaurant website — **43+ features in just 3 files**
 
     🌐 Live  →  https://shudanshubora1410.github.io/cafe-roadway
     🐙 Code  →  https://github.com/shudanshubora1410/cafe-roadway
 
-Premium dark-luxury restaurant website with **43+ interactive features** built
-using only **3 files** — HTML, CSS & Vanilla JavaScript. No external frameworks.
+**Highlights:**
+- 43+ interactive features using only HTML, CSS & Vanilla JavaScript — zero frameworks
+- Dynamic billing engine with automated GST computation & WhatsApp API integration
+- Dark/Light Mode (LocalStorage), Live Menu Search, Spin-the-Wheel discount game
+- Table Booking, Order Tracker, Review System, Birthday Special, Happy Hours Timer
+- JSON-LD Schema Markup, Open Graph tags, 8 keyboard shortcuts, Canvas Confetti
 
-**Key Features:**
-- Dynamic billing engine with automated GST & WhatsApp API integration
-- Dark/Light Mode with LocalStorage, Live Menu Search, Spin-the-Wheel
-- Table Booking, Order Tracker, Review System, Birthday Special
-- JSON-LD Schema Markup, Open Graph tags, 8 keyboard shortcuts
-- Canvas-based Confetti animation, Custom cursor
-
-**Tech:** HTML5 • CSS3 • Vanilla JavaScript • Bootstrap 5 • Canvas API • LocalStorage
+**Tech:** `HTML5` `CSS3` `Vanilla JavaScript` `Bootstrap 5` `Canvas API` `LocalStorage`
 
 ---
 
 ### 🏠 Homyz — Real Estate Platform
 
+> Modern real estate platform for Delhi NCR — Incapp IT Training Final Project
+
     🌐 Live  →  https://shudanshubora1410.github.io/Homyz
     🐙 Code  →  https://github.com/shudanshubora1410/Homyz
 
-Modern real estate platform for **Delhi NCR** built as final project at
-**Incapp IT Training Company**.
-
-**Key Features:**
-- Property filtering (Apartments, Villas, Houses, Penthouses)
-- Google Sheets API as serverless backend for lead capture
-- WhatsApp floating button, Google Maps integration
-- Favorites system, toast notifications, typed location effect
+**Highlights:**
+- Covers 6 Delhi NCR localities — Noida, Gurgaon, Greater Noida, Faridabad & more
+- Dynamic property filtering (Apartments, Villas, Houses, Penthouses)
+- Google Sheets API as serverless backend — no server required for lead capture
+- WhatsApp floating button, Google Maps, favorites system, typed location effect
 - AOS scroll animations, fully responsive mobile-first design
 
-**Tech:** HTML5 • CSS3 • JavaScript • Bootstrap 5 • AOS • Google Sheets API
+**Tech:** `HTML5` `CSS3` `JavaScript` `Bootstrap 5` `AOS` `Google Sheets API`
 
 ---
 
 ### 🏥 NovaCare — Hospital Management System
 
+> Full-stack healthcare solution built in 2nd year of B.Tech
+
     🐙 Code  →  https://github.com/shudanshubora1410/hospital-management-system
 
-Full-stack hospital management system built in **2nd year of B.Tech**.
+**Highlights:**
+- 24 RESTful API endpoints for patient, doctor & appointment management
+- Role-based access control (RBAC) — Admin, Doctor, Patient with separate dashboards
+- Automated 18% GST billing with dynamic invoice generation
+- Real-time dashboard — patient count, appointments, revenue, doctor availability
+- MySQL relational database with normalized table design
 
-**Key Features:**
-- 24 RESTful API endpoints for complete CRUD operations
-- Role-based access control (Admin, Doctor, Patient)
-- Automated 18% GST billing system
-- Real-time statistics dashboard
-- MySQL relational database design
-
-**Tech:** Node.js • Express.js • MySQL • JavaScript • HTML5 • CSS3
+**Tech:** `Node.js` `Express.js` `MySQL` `JavaScript` `HTML5` `CSS3`
 
 ---
 
-### 📧 Email Automation Tool
+### 📧 Email Automation Tool — Java Desktop App
+
+> Java Swing desktop application for automated email delivery
 
     🐙 Code  →  https://github.com/shudanshubora1410/Email-Sender-Java
 
-Java Swing desktop application for automated email via Gmail SMTP.
+**Highlights:**
+- Gmail SMTP with TLS encryption for secure email delivery
+- Multi-recipient support, custom subject lines, file attachments
+- Clean Swing GUI with form validation
 
-**Tech:** Java • Swing • JavaMail API • Gmail SMTP
+**Tech:** `Java` `Swing` `JavaMail API` `Gmail SMTP`
 
 ---
 
 ### 🧑‍💻 LeetCode Solutions — Java
 
+> Organized DSA practice repository with complexity analysis
+
     🐙 Code  →  https://github.com/shudanshubora1410/LeetCode-Java
 
-Organized DSA solutions in Java with time & space complexity analysis.
+**Highlights:**
+- Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking
+- Each solution includes time & space complexity analysis
+- Clean readable code with comments
 
-**Tech:** Java • Data Structures • Algorithms
+**Tech:** `Java` `Data Structures` `Algorithms`
 
 ---
 
@@ -143,9 +146,9 @@ Organized DSA solutions in Java with time & space complexity analysis.
 |----------|--------|
 | **Languages** | Java (Core & Advanced), JavaScript (ES6+), SQL, HTML5, CSS3 |
 | **Java & OOP** | OOP, Collections Framework, Multithreading, Exception Handling, File I/O |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, CRUD, JavaMail API, SMTP |
-| **Frontend** | Bootstrap 5, jQuery, DOM Manipulation, AOS, Responsive Design |
-| **Database & Tools** | MySQL, Git & GitHub, Google Sheets API, VS Code, IntelliJ IDEA |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, CRUD Operations, JavaMail API, SMTP |
+| **Frontend** | Bootstrap 5, jQuery, DOM Manipulation, AOS Animations, Responsive Design |
+| **Database & Tools** | MySQL, Git & GitHub, Google Sheets API, VS Code, IntelliJ IDEA, Netlify |
 | **DSA** | Arrays, Linked Lists, Trees, Graphs (BFS/DFS), DP, Recursion, Hashing |
 
 ### 🔄 Currently Learning
@@ -195,42 +198,55 @@ Organized DSA solutions in Java with time & space complexity analysis.
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year | Verify |
-|-------------|--------|------|--------|
-| Data Structures & Algorithms using Java | Incapp IT Training | 2024 | [🔗 View](https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view?pli=1) |
-| Java Programming — Core Java | Incapp IT Training | 2024 | [🔗 View](https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view) |
-| Web Development — HTML, CSS, JS, Bootstrap | Incapp IT Training | 2024 | [🔗 View](https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view) |
+| Certificate | Issuer | Year | Link |
+|-------------|--------|------|------|
+| Data Structures & Algorithms using Java | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view?pli=1) |
+| Java Programming — Core Java | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view) |
+| Web Development — HTML, CSS, JS, Bootstrap | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view) |
 
 ---
 
-## 🚀 How to Compile the Resume
+## 🚀 How to Compile Resume
 
-**Option 1 — Overleaf (Recommended)**
+### Option 1 — Overleaf (Recommended — No Installation)
 
     1. Go to https://www.overleaf.com
     2. Click New Project → Blank Project
-    3. Delete all existing code
-    4. Paste the contents of main.tex
-    5. Click Recompile
-    6. Download PDF
+    3. Delete all existing code in editor
+    4. Paste the entire contents of main.tex
+    5. Click Recompile button
+    6. Download PDF from top left
 
-**Option 2 — Local (pdflatex)**
+### Option 2 — Local (pdflatex)
 
-    # Make sure you have TeX Live installed
+    # Requires TeX Live installed on your system
+    git clone https://github.com/shudanshubora1410/resume.git
+    cd resume
     pdflatex main.tex
 
-**Required LaTeX Packages:**
+### Required LaTeX Packages
 
-    inputenc, fontenc, lmodern, geometry, titlesec,
-    enumitem, hyperref, xcolor, fontawesome5,
-    tabularx, array, tikz, microtype
+    inputenc    fontenc     lmodern     geometry
+    titlesec    enumitem    hyperref    xcolor
+    fontawesome5            tabularx    array
+    tikz        microtype
+
+---
+
+## 🏅 Achievements
+
+- ☕ Built **43-feature restaurant website** using only 3 files — zero frameworks
+- 🏥 Built **production-ready HMS** with 24 REST APIs in 2nd year of B.Tech
+- 🏠 Built **Homyz real estate platform** as Incapp IT Training final project
+- ✅ Completed **Core Java + DSA + Frontend** development roadmap phases
+- 🎓 Earned **3 certifications** from Incapp IT Training Company
 
 ---
 
 ## 📞 Contact
 
-| Platform | Link |
-|----------|------|
+| Platform | Details |
+|----------|---------|
 | 📧 **Email** | [shudanshubora1410@gmail.com](mailto:shudanshubora1410@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/shudanshubora](https://www.linkedin.com/in/shudanshubora/) |
 | 🐙 **GitHub** | [@shudanshubora1410](https://github.com/shudanshubora1410) |
@@ -240,40 +256,25 @@ Organized DSA solutions in Java with time & space complexity analysis.
 
 ---
 
-## 🏅 Achievements
-
-- ☕ Built **43-feature restaurant website** using only 3 files — no frameworks
-- 🏥 Built **production-ready HMS** with 24 REST APIs in 2nd year of B.Tech
-- 🏠 Built **Homyz real estate platform** as Incapp IT Training final project
-- ✅ Completed **Core Java + DSA + Frontend** development roadmap phases
-- 🎓 Earned **3 certifications** from Incapp IT Training Company
-
----
-
 ## 📄 License
 
-    MIT License
-    Copyright (c) 2025 Shudanshu Sanjay Bora
+    MIT License — Copyright (c) 2025 Shudanshu Sanjay Bora
     Free to use as reference with proper credit!
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+in+the+making...;Core+Java+✅+DSA+✅+Frontend+✅;Currently+Mastering+Advanced+Java+🔄;Open+to+Internships+%26+Opportunities+🚀" alt="Typing" />
-
-### ⭐ Star this repo if it helped you!
-
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/Typeset_with-LaTeX-008080?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/Typeset_with-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![ATS Ready](https://img.shields.io/badge/ATS-Ready-10b981?style=for-the-badge)
 
 **Made with ❤️ by Shudanshu Sanjay Bora**
 
 *B.Tech IT • GLBITM Greater Noida • Java Full Stack Developer*
 
-[🌐 Portfolio](https://shudanshubora1410.github.io/portfolio-website/) • [🏠 Homyz](https://shudanshubora1410.github.io/Homyz) • [☕ Cafe Roadway](https://shudanshubora1410.github.io/cafe-roadway)
+⭐ **Star this repo if it helped you!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+*© 2025 Shudanshu Sanjay Bora — Greater Noida, India 🇮🇳*
 
 </div>
