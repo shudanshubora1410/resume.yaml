@@ -1,6 +1,6 @@
 cv:
   name: Shudanshu Sanjay Bora
-  location: Greater Noida, India
+  location: Greater Noida, Uttar Pradesh, India
   phone: "9978648457"
   email: shudanshubora1410@gmail.com
   social_links:
@@ -10,64 +10,289 @@ cv:
       url: https://github.com/shudanshubora1410
     - label: Portfolio
       url: https://shudanshubora1410.github.io/portfolio-website/
+    - label: Homyz (Real Estate Project)
+      url: https://shudanshubora1410.github.io/Homyz
+    - label: Cafe Roadway (Flagship Project)
+      url: https://shudanshubora1410.github.io/cafe-roadway
 
   summary: |
-    Java Full Stack Developer & 3rd-year B.Tech IT student at GLBITM. Specialized in building 
-    production-ready applications with a focus on clean code and DSA. Creator of Cafe Roadway 
-    (43 features) and NovaCare HMS (24 REST APIs). Currently mastering Advanced Java.
+    Passionate Java Full Stack Developer and 3rd-year B.Tech IT student at GLBITM, Greater Noida.
+    Strong foundation in Core Java, Data Structures & Algorithms, and Full-Stack Web Development.
+    Creator of Cafe Roadway (43+ interactive features in pure Vanilla JS), Homyz (real estate 
+    platform for Delhi NCR with Google Sheets integration), and NovaCare HMS (24 REST APIs with 
+    role-based authentication). Currently mastering Advanced Java (Collections, Multithreading, 
+    File I/O) on the path to becoming a complete Java Full Stack Developer. Open to internship 
+    opportunities and real-world collaborations.
 
   education:
-    - school: GL Bajaj Institute of Technology and Management
+    - school: GL Bajaj Institute of Technology and Management (GLBITM)
       degree: B.Tech in Information Technology
-      location: Greater Noida, India
+      location: Greater Noida, Uttar Pradesh, India
       start_date: 2023-08
-      end_date: 2027-06 (Expected)
+      end_date: 2027-06
+      status: Pursuing (Expected June 2027)
+      highlights:
+        - "Current Phase: Advanced Java (Collections, Multithreading, File I/O)"
+        - "Completed: Core Java, DSA, Frontend Development (HTML, CSS, JS, Bootstrap)"
+        - "Upcoming: Spring Boot, MySQL, Hibernate, React JS"
+
     - school: S. D. Jain Modern School (CBSE)
-      degree: Class 12th (Science - PCM)
+      degree: Class 12th — Science (Physics, Chemistry, Mathematics)
+      location: India
       end_date: 2023
-      highlights: "Marks: 86%"
+      highlights:
+        - "Percentage: 86%"
+
     - school: S. D. Jain Modern School (CBSE)
       degree: Class 10th
+      location: India
       end_date: 2021
-      highlights: "Marks: 92%"
+      highlights:
+        - "Percentage: 92%"
 
   skills:
-    - category: Languages
-      list: [Java (Core & Advanced), JavaScript (ES6+), SQL, HTML5, CSS3]
-    - category: Web/Frameworks
-      list: [Node.js, Express.js, Bootstrap 5, jQuery, RESTful APIs]
-    - category: Tools/Databases
-      list: [MySQL, Git/GitHub, JavaMail API, VS Code, Netlify]
-    - category: Core
-      list: [Data Structures & Algorithms, OOPs, Problem Solving]
+    - category: Programming Languages
+      list:
+        - Java (Core & Advanced)
+        - JavaScript (ES6+)
+        - SQL
+        - HTML5
+        - CSS3
+
+    - category: Web & Frameworks
+      list:
+        - Node.js
+        - Express.js
+        - Bootstrap 5
+        - jQuery
+        - RESTful APIs
+        - AOS (Animate on Scroll)
+
+    - category: Tools & Databases
+      list:
+        - MySQL
+        - Git & GitHub
+        - GitHub Pages
+        - JavaMail API
+        - Google Sheets API
+        - VS Code
+        - IntelliJ IDEA
+        - Netlify
+
+    - category: Core Competencies
+      list:
+        - Data Structures & Algorithms (Java)
+        - Object-Oriented Programming (OOP)
+        - Problem Solving & Logic Building
+        - Responsive Web Design
+        - REST API Development
+        - Database Design (MySQL)
+
+    - category: Currently Learning
+      list:
+        - Advanced Java (Collections Framework)
+        - Multithreading & Concurrency
+        - File Handling & I/O Streams
+        - Exception Handling (Advanced)
+
+    - category: Coming Soon
+      list:
+        - Spring Boot & Spring MVC
+        - Hibernate ORM
+        - React JS
+        - MongoDB
+        - Spring Security & JWT
+        - Microservices
 
   projects:
-    - name: Cafe Roadway (Flagship Project)
-      tech: Vanilla JS, HTML5, CSS3, Bootstrap 5
-      link: https://shudanshubora1410.github.io/cafe-roadway
+    - name: Cafe Roadway
+      tag: Flagship Project
+      tech: HTML5, CSS3, Vanilla JavaScript, Bootstrap 5, Canvas API, LocalStorage
+      live_link: https://shudanshubora1410.github.io/cafe-roadway
+      github_link: https://github.com/shudanshubora1410/cafe-roadway
       highlights:
-        - Engineered a premium restaurant platform with 43+ interactive features.
-        - Built dynamic Bill Calculator with automated GST and WhatsApp API integration.
-        - Integrated JSON-LD Schema for 100% SEO optimization and responsiveness.
-    - name: NovaCare – Hospital Management System
-      tech: Node.js, Express.js, MySQL
-      link: https://github.com/shudanshubora1410/hospital-management-system
+        - Engineered a premium dark-luxury restaurant website with 43+ interactive
+          features using only 3 files (HTML, CSS, JS) — no frameworks used.
+        - Built a dynamic Bill Calculator with automated GST computation and
+          WhatsApp API integration for seamless order placement.
+        - Implemented Dark/Light Mode with LocalStorage persistence, Live Menu
+          Search, Spin-the-Wheel discount game, and Canvas-based Confetti animation.
+        - Integrated Table Booking system, Order Tracker, Review System,
+          Birthday Special, and Happy Hours countdown timer.
+        - Added JSON-LD Schema Markup for 100% SEO optimization, Open Graph
+          tags, and full mobile responsiveness.
+        - Implemented 8 keyboard shortcuts for navigation and custom gold
+          cursor with hover effects.
+
+    - name: Homyz
+      tag: Incapp IT Training — Final Project
+      tech: HTML5, CSS3, JavaScript, Bootstrap 5, AOS, Google Sheets API
+      live_link: https://shudanshubora1410.github.io/Homyz
+      github_link: https://github.com/shudanshubora1410/Homyz
       highlights:
-        - Developed a full-stack HMS with 24 RESTful API endpoints for CRUD operations.
-        - Implemented role-based access control and real-time automated billing.
+        - Built a modern real estate platform targeting Delhi NCR covering
+          Noida, Gurgaon, Greater Noida, Faridabad and South Delhi.
+        - Implemented dynamic property filtering by type (Apartments, Villas,
+          Houses, Penthouses) with smooth fade transitions.
+        - Integrated Google Sheets API as backend for contact form — stores
+          leads directly into spreadsheet without any server required.
+        - Added WhatsApp floating button with pre-filled message, Google Maps
+          integration, and animated locality explorer section.
+        - Built favorites system with heart animation, toast notifications,
+          animated counter stats and typed location effect.
+        - Fully responsive design with AOS scroll animations, custom
+          scrollbar, and mobile-first approach throughout.
+
+    - name: NovaCare — Hospital Management System
+      tag: Full-Stack Project — 2nd Year
+      tech: Node.js, Express.js, MySQL, JavaScript, HTML5, CSS3
+      github_link: https://github.com/shudanshubora1410/hospital-management-system
+      highlights:
+        - Developed a complete full-stack hospital management system with
+          24 RESTful API endpoints covering all CRUD operations.
+        - Implemented role-based access control system with 3 distinct
+          roles — Admin, Doctor, and Patient — each with separate dashboards.
+        - Built automated 18% GST billing system that calculates and generates
+          invoices dynamically for each patient visit.
+        - Designed real-time statistics dashboard showing patient count,
+          appointments, revenue, and doctor availability.
+        - Used MySQL for relational database design with normalized tables
+          for Patients, Doctors, Appointments, and Billing.
+
     - name: Email Sender Application
-      tech: Java, JavaMail API, Swing
+      tag: Java Desktop Project
+      tech: Java, Swing, JavaMail API, Gmail SMTP
+      github_link: https://github.com/shudanshubora1410/Email-Sender-Java
       highlights:
-        - Built a desktop automation tool using SMTP for secure file-attachment mail sending.
+        - Built a Java Swing desktop application for automated email sending
+          using Gmail SMTP protocol.
+        - Supports multiple recipients, custom subject lines, message body
+          and file attachment functionality.
+        - Implemented secure authentication using Gmail App Password with
+          TLS encryption for data safety.
+
+    - name: LeetCode Solutions — Java
+      tag: DSA Practice Repository
+      tech: Java, Data Structures, Algorithms
+      github_link: https://github.com/shudanshubora1410/LeetCode-Java
+      highlights:
+        - Maintained organized repository of DSA solutions in Java covering
+          Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, and Backtracking.
+        - Each solution includes optimal time complexity, space complexity
+          analysis, and clean readable code with comments.
 
   certifications:
-    - name: Data Structure & Algorithm using Java
-      issuer: Incapp
+    - name: Data Structures & Algorithms using Java
+      issuer: Incapp IT Training Company
+      year: 2024
       url: https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view?pli=1
-    - name: Java Programming (Core)
-      issuer: Incapp
+      skills_covered:
+        - Arrays, Linked Lists, Stack, Queue
+        - Trees (BST), Graphs (BFS/DFS)
+        - Dynamic Programming, Backtracking
+        - Hashing, Recursion, Sorting Algorithms
+
+    - name: Java Programming (Core Java)
+      issuer: Incapp IT Training Company
+      year: 2024
       url: https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view
+      skills_covered:
+        - OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
+        - Exception Handling, Collections Framework basics
+        - Methods, Constructors, Interfaces, Abstract Classes
+        - Java Fundamentals (JVM, JDK, JRE, Data Types, Operators)
+
+    - name: Web Development (HTML, CSS, JavaScript, Bootstrap)
+      issuer: Incapp IT Training Company
+      year: 2024
+      skills_covered:
+        - HTML5 — Semantic Markup, Forms, Tables, Media
+        - CSS3 — Flexbox, Grid, Animations, Responsive Design
+        - JavaScript — DOM, Events, ES6+, Fetch API
+        - Bootstrap 5 — Components, Grid System
+
+  learning_roadmap:
+    - phase: 1
+      topic: Core Java
+      status: Completed
+      topics_covered:
+        - Java Fundamentals (JVM, JDK, JRE)
+        - OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
+        - Exception Handling, Methods, Constructors
+        - Interfaces, Abstract Classes
+
+    - phase: 2
+      topic: Data Structures & Algorithms (Java)
+      status: Completed
+      topics_covered:
+        - Arrays, Linked Lists, Stack, Queue
+        - Binary Search, Sorting Algorithms
+        - Trees (BST), Graphs (BFS/DFS)
+        - Hashing, Recursion, DP, Backtracking
+
+    - phase: 3
+      topic: Frontend Development
+      status: Completed
+      topics_covered:
+        - HTML5, CSS3 (Flexbox, Grid, Animations)
+        - JavaScript (DOM, Events, ES6+, Fetch API)
+        - Bootstrap 5, jQuery
+        - GitHub Pages, Netlify Hosting
+
+    - phase: 4
+      topic: Advanced Java
+      status: In Progress
+      topics_covered:
+        - Exception Handling (Advanced)
+        - Collections Framework (List, Set, Map, Queue)
+        - Multithreading & Concurrency
+        - File Handling & I/O Streams
+        - GUI Programming (Swing / JavaFX)
+
+    - phase: 5
+      topic: Backend Java Development
+      status: Coming Soon
+      topics_planned:
+        - MySQL, MongoDB, JDBC
+        - Hibernate ORM (One-to-Many, Many-to-Many)
+        - Servlets & JSP
+        - Spring Framework (DI, MVC)
+        - Spring Boot, REST APIs
+        - Microservices Architecture
+
+    - phase: 6
+      topic: Full Stack Development
+      status: Coming Soon
+      topics_planned:
+        - React JS (Modern Frontend)
+        - Spring Security & JWT Authentication
+        - OAuth2 (Google Login)
+        - JUnit Testing
+        - Spring Mail, Thymeleaf
+        - Docker & Deployment
 
   additional_info:
-    languages: [English (Professional), Hindi (Native)]
-    interests: [Competitive Programming, UI/UX Design, Open Source Contribution]
+    languages:
+      - English (Professional Proficiency)
+      - Hindi (Native / Full Proficiency)
+
+    interests:
+      - Competitive Programming & DSA
+      - UI/UX Design & Frontend Development
+      - Open Source Contribution
+      - Java Backend Development
+      - Real-World Problem Solving
+
+    availability:
+      status: Open to Internships & Full-time Opportunities
+      roles_interested:
+        - Java Developer Intern
+        - Full Stack Developer Intern
+        - Backend Developer (Java/Spring Boot)
+        - Frontend Developer
+
+    achievements:
+      - Built 43-feature restaurant website using only 3 files (No frameworks)
+      - Built production-ready HMS with 24 REST APIs in 2nd year of B.Tech
+      - Built Homyz real estate platform as Incapp IT Training final project
+      - Completed Core Java + DSA + Frontend Development roadmap phases
