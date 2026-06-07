@@ -10,7 +10,7 @@
 
 **Professional one-page ATS-friendly resume & structured CV data**
 
-[🌐 Portfolio](https://shudanshubora1410.github.io/portfolio-website/) • [🐙 GitHub](https://github.com/shudanshubora1410) • [💼 LinkedIn](https://www.linkedin.com/in/shudanshubora/) • [☕ Cafe Roadway](https://shudanshubora1410.github.io/cafe-roadway) • [🏠 Homyz](https://shudanshubora1410.github.io/Homyz)
+[🌐 Portfolio](https://shudanshubora1410.github.io/portfolio-website/) • [🐙 GitHub](https://github.com/shudanshubora1410) • [💼 LinkedIn](https://www.linkedin.com/in/shudanshubora/) • [🎯 ResuMatch Pro](https://github.com/shudanshubora1410/resumatch-pro) • [☕ Cafe Roadway](https://shudanshubora1410.github.io/cafe-roadway) • [🏠 Homyz](https://shudanshubora1410.github.io/Homyz)
 
 </div>
 
@@ -21,9 +21,9 @@
 | Detail | Info |
 |--------|------|
 | 👤 **Name** | Shudanshu Sanjay Bora |
-| 🎓 **Degree** | B.Tech IT — 3rd Year @ GLBITM, Greater Noida |
+| 🎓 **Degree** | B.Tech IT — 4th Year @ GLBITM, Greater Noida |
 | 🎯 **Goal** | Java Full Stack Developer @ Product-Based Company |
-| 🔄 **Current** | Mastering Advanced Java (Collections, Multithreading, File I/O) |
+| 🔄 **Current** | Building Full Stack Apps with Spring Boot 3.2 + Advanced Java |
 | 📍 **Location** | Greater Noida, Uttar Pradesh, India 🇮🇳 |
 | 📧 **Email** | shudanshubora1410@gmail.com |
 | 💼 **Status** | Open to Internships & Full-time Opportunities |
@@ -49,13 +49,39 @@
 - ✅ **Pill Skill Tags** — Visual skill tags for easy scanning
 - ✅ **Black & White** — Clean printer-friendly design
 - ✅ **Honest** — Only lists skills actually learned and practiced
-- ✅ **No Future Skills** — Spring Boot, React, JWT etc. not listed (Coming Soon)
+- ✅ **Updated** — Spring Boot, JWT, Docker, Nginx now listed — built in ResuMatch Pro
 
 ---
 
 ## 🏆 Featured Projects
 
-### ☕ Cafe Roadway — Flagship Project
+### 🎯 ResuMatch Pro — Flagship Full Stack Project
+
+> Rule-Based NLP ATS & Recruitment Intelligence Platform — **210+ files, production-grade**
+
+    🐙 Code  →  https://github.com/shudanshubora1410/resumatch-pro
+
+**Highlights:**
+- Full-stack ATS platform built as Final Year B.Tech IT project at GLBITM
+- Custom rule-based NLP engine — 10-stage pipeline with zero AI/ML libraries
+- 500+ skill vocabulary across 9 domains with 80+ synonym mappings
+- 6-category weighted scoring algorithm — 100 points total
+- Confidence-weighted keyword matching — Skills (1.0) · Experience (0.85) · Projects (0.75)
+- Dynamic rescoring — all applicants automatically rescored when job requirements change
+- JWT dual-token auth — 15-minute access token + 7-day refresh token with BCrypt-12
+- Resume parsing via Apache PDFBox and Apache POI
+- 16 database tables, 16 JPA models, 16 services, 7 REST controllers, 18 DTOs
+- Deployed with Docker Compose and Nginx reverse proxy
+
+**Tech:** `Java 17` `Spring Boot 3.2` `Spring Security 6` `Spring Data JPA` `Hibernate`
+`MySQL 8.0` `JWT` `BCrypt` `Apache PDFBox` `Apache POI` `Bootstrap 5.3`
+`Chart.js` `Docker` `Docker Compose` `Nginx` `Maven`
+
+**Team:** Shudanshu Sanjay Bora · Ketan Saini · Shivang Singh · Shreyansh Yadav · Sajal Rathore
+
+---
+
+### ☕ Cafe Roadway — Vanilla JS Showcase Project
 
 > Premium dark-luxury restaurant website — **43+ features in just 3 files**
 
@@ -88,23 +114,6 @@
 - AOS scroll animations, fully responsive mobile-first design
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Bootstrap 5` `AOS` `Google Sheets API`
-
----
-
-### 🏥 NovaCare — Hospital Management System
-
-> Full-stack healthcare solution built in 2nd year of B.Tech
-
-    🐙 Code  →  https://github.com/shudanshubora1410/hospital-management-system
-
-**Highlights:**
-- 24 RESTful API endpoints for patient, doctor & appointment management
-- Role-based access control (RBAC) — Admin, Doctor, Patient with separate dashboards
-- Automated 18% GST billing with dynamic invoice generation
-- Real-time dashboard — patient count, appointments, revenue, doctor availability
-- MySQL relational database with normalized table design
-
-**Tech:** `Node.js` `Express.js` `MySQL` `JavaScript` `HTML5` `CSS3`
 
 ---
 
@@ -146,9 +155,11 @@
 |----------|--------|
 | **Languages** | Java (Core & Advanced), JavaScript (ES6+), SQL, HTML5, CSS3 |
 | **Java & OOP** | OOP, Collections Framework, Multithreading, Exception Handling, File I/O |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, CRUD Operations, JavaMail API, SMTP |
-| **Frontend** | Bootstrap 5, jQuery, DOM Manipulation, AOS Animations, Responsive Design |
-| **Database & Tools** | MySQL, Git & GitHub, Google Sheets API, VS Code, IntelliJ IDEA, Netlify |
+| **Backend & APIs** | Spring Boot 3.2, Spring MVC, Spring Security 6, Spring Data JPA, Hibernate ORM, REST APIs, JWT Auth, BCrypt, JavaMail API, Apache PDFBox, Apache POI |
+| **Frontend** | Bootstrap 5.3, jQuery, Chart.js, DOM Manipulation, AOS Animations, Responsive Design |
+| **Database** | MySQL 8.0, SQL Query Writing, Relational Database Design, JPA |
+| **DevOps & Tools** | Docker, Docker Compose, Nginx, Git & GitHub, GitHub Pages, Netlify, VS Code, IntelliJ IDEA |
+| **APIs & Integrations** | Google Sheets API, Google Maps API, WhatsApp API, Canvas API, LocalStorage API |
 | **DSA** | Arrays, Linked Lists, Trees, Graphs (BFS/DFS), DP, Recursion, Hashing |
 
 ### 🔄 Currently Learning
@@ -158,18 +169,16 @@
 | Advanced Java — Collections Framework | 🔄 Active |
 | Multithreading & Concurrency | 🔄 Active |
 | File Handling & I/O Streams | 🔄 Active |
-| Exception Handling (Advanced) | 🔄 Active |
+| Microservices Architecture | 🔄 Active |
 
 ### 🎯 Coming Soon
 
 | Skill | Phase |
 |-------|-------|
-| Spring Boot & Spring MVC | Phase 5 |
-| Hibernate ORM | Phase 5 |
-| MySQL Advanced + MongoDB | Phase 5 |
 | React JS | Phase 6 |
-| Spring Security & JWT | Phase 6 |
-| Microservices | Phase 6 |
+| MongoDB | Phase 6 |
+| Spring Cloud | Phase 6 |
+| Kubernetes | Phase 6 |
 
 ---
 
@@ -180,9 +189,9 @@
 | 1️⃣ | ☕ Core Java — OOP, Methods, Logic Building | ✅ Done |
 | 2️⃣ | 🧠 DSA — Arrays, Trees, Graphs, DP, Backtracking | ✅ Done |
 | 3️⃣ | 🌐 Frontend — HTML, CSS, JS, Bootstrap 5 | ✅ Done |
-| 4️⃣ | ⚙️ Advanced Java — Collections, Threads, File I/O | 🔄 Active |
-| 5️⃣ | 🛠️ Backend — MySQL, Hibernate, Spring Boot, REST APIs | 🎯 Soon |
-| 6️⃣ | 🚀 Full Stack — React JS, Spring Security, Microservices | 🎯 Soon |
+| 4️⃣ | ⚙️ Advanced Java — Collections, Threads, File I/O | ✅ Done |
+| 5️⃣ | 🛠️ Backend — MySQL, Hibernate, Spring Boot, REST APIs, JWT, Docker | ✅ Done |
+| 6️⃣ | 🚀 Full Stack — React JS, Spring Cloud, Microservices, Kubernetes | 🎯 Soon |
 
 ---
 
@@ -235,11 +244,13 @@
 
 ## 🏅 Achievements
 
+- 🎯 Built **ResuMatch Pro** — production-grade ATS platform with 210+ files using
+  Spring Boot 3.2, Spring Security 6, JWT, MySQL, Docker & rule-based NLP engine
+  as Final Year B.Tech IT project at GLBITM
 - ☕ Built **43-feature restaurant website** using only 3 files — zero frameworks
-- 🏥 Built **production-ready HMS** with 24 REST APIs in 2nd year of B.Tech
 - 🏠 Built **Homyz real estate platform** as Incapp IT Training final project
-- ✅ Completed **Core Java + DSA + Frontend** development roadmap phases
-- 🎓 Earned **3 certifications** from Incapp IT Training Company
+- ✅ Completed **Core Java + DSA + Frontend + Spring Boot Backend** roadmap phases
+- 🎓 Earned **3 certifications** from Incapp IT Training Institute
 
 ---
 
@@ -251,8 +262,9 @@
 | 💼 **LinkedIn** | [linkedin.com/in/shudanshubora](https://www.linkedin.com/in/shudanshubora/) |
 | 🐙 **GitHub** | [@shudanshubora1410](https://github.com/shudanshubora1410) |
 | 🌐 **Portfolio** | [shudanshubora1410.github.io/portfolio-website](https://shudanshubora1410.github.io/portfolio-website/) |
-| 🏠 **Homyz** | [shudanshubora1410.github.io/Homyz](https://shudanshubora1410.github.io/Homyz) |
+| 🎯 **ResuMatch Pro** | [github.com/shudanshubora1410/resumatch-pro](https://github.com/shudanshubora1410/resumatch-pro) |
 | ☕ **Cafe Roadway** | [shudanshubora1410.github.io/cafe-roadway](https://shudanshubora1410.github.io/cafe-roadway) |
+| 🏠 **Homyz** | [shudanshubora1410.github.io/Homyz](https://shudanshubora1410.github.io/Homyz) |
 
 ---
 
