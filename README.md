@@ -172,7 +172,7 @@ resume/
 | Category | Skills |
 |----------|--------|
 | **Languages** | Java (Core & Advanced), JavaScript (ES6+), SQL, HTML5, CSS3 |
-| **Java & OOP** | OOP, Collections Framework, Multithreading, Exception Handling, File I/O |
+| **Java & OOP** | OOP, Collections Framework, Multithreading, Exception Handling, File I/O, Lambda Expressions, Java Swing (GUI) |
 | **Backend & APIs** | Spring Boot 3.2, Spring MVC, Spring Data JPA, Hibernate ORM, REST APIs, Apache PDFBox, Apache POI, JavaMail API |
 | **Frontend** | Bootstrap 5.3, jQuery, Chart.js, DOM Manipulation, AOS Animations, Responsive Design |
 | **Database** | MySQL 8.0, H2 (file mode), SQL Query Writing, Relational Database Design, JPA |
@@ -184,9 +184,8 @@ resume/
 
 | Skill | Status |
 |-------|--------|
-| Advanced Java — Collections Framework | 🔄 Active |
-| Multithreading & Concurrency | 🔄 Active |
-| File Handling & I/O Streams | 🔄 Active |
+| Backend Development — Spring Boot, JPA, MySQL (Incapp cert) | 🔄 Active until Sep 2026 |
+| AI Engineering — LLM integration, prompt patterns (Incapp cert) | 🔄 Active until Oct 2026 |
 
 ### 🎯 Coming Soon
 
@@ -201,14 +200,14 @@ resume/
 
 ## 🗺️ Java Full Stack Roadmap
 
-| Phase | Topic | Status |
-|:---:|:---|:---:|
-| 1️⃣ | ☕ Core Java — OOP, Methods, Logic Building | ✅ Done |
-| 2️⃣ | 🧠 DSA — Arrays, Trees, Graphs, DP, Backtracking | ✅ Done |
-| 3️⃣ | 🌐 Frontend — HTML, CSS, JS, Bootstrap 5 | ✅ Done |
-| 4️⃣ | ⚙️ Advanced Java — Collections, Threads, File I/O | ✅ Done |
-| 5️⃣ | 🛠️ Backend — MySQL, Hibernate, Spring Boot, REST APIs | ✅ Done |
-| 6️⃣ | 🚀 Full Stack — React JS, Spring Cloud, Microservices, Kubernetes | 🎯 Soon |
+| Phase | Topic | Period | Status |
+|:---:|:---|:---|:---:|
+| 1️⃣ | ☕ Core Java — OOP, Methods, Logic Building | Apr 2025 – Jul 2025 | ✅ Done |
+| 2️⃣ | 🧠 DSA — Arrays, Trees, Graphs, DP, Backtracking | Aug 2025 – Dec 2025 | ✅ Done |
+| 3️⃣ | 🌐 Frontend — HTML, CSS, JS, Bootstrap 5 | Jan 2026 – Apr 2026 | ✅ Done |
+| 4️⃣ | 🛠️ Backend — MySQL, Hibernate, Spring Boot, REST APIs | Apr 2026 – Sep 2026 | 🔄 Active |
+| 5️⃣ | 🤖 AI Engineering — LLM integration, prompt patterns | Aug 2026 – Oct 2026 | 🔄 Active |
+| 6️⃣ | 🚀 Full Stack — React JS, Spring Cloud, Microservices, Kubernetes | Post-placement | 🎯 Soon |
 
 ---
 
@@ -216,7 +215,7 @@ resume/
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 B.Tech — Information Technology | GLBITM, Greater Noida | 2022 – 2026 | Pursuing (Final Year) |
+| 🎓 B.Tech — Information Technology | GLBITM, Greater Noida | 10/2023 – 06/2027 | Pursuing (Final Year) |
 | 📚 Class 12th — Science (PCM) | S. D. Jain Modern School (CBSE) | 2023 | 86% |
 | 📚 Class 10th | S. D. Jain Modern School (CBSE) | 2021 | 92% |
 
@@ -224,11 +223,15 @@ resume/
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year | Link |
+All from **Incapp IT Training Institute, Greater Noida**.
+
+| Certificate | Period | Year | Link |
 |-------------|--------|------|------|
-| Data Structures & Algorithms using Java | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view) |
-| Java Programming — Core Java | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view) |
-| Web Development — HTML, CSS, JS, Bootstrap | Incapp IT Training | 2024 | [🔗 Verify](https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view) |
+| Core Java | Apr 2025 – Jul 2025 | 2025 | [🔗 Verify](https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view) |
+| Data Structures & Algorithms using Java | Aug 2025 – Dec 2025 | 2025 | [🔗 Verify](https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view) |
+| Web Development — HTML, CSS, JS, Bootstrap | Jan 2026 – Apr 2026 | 2026 | [🔗 Verify](https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view) |
+| Backend Development — Spring Boot, JPA, MySQL | Apr 2026 – Sep 2026 | 2026 | Certificate in progress |
+| AI Engineering | Aug 2026 – Oct 2026 | 2026 | Certificate in progress |
 
 ---
 
@@ -269,7 +272,7 @@ tikz        microtype
 - ☕ Built **43-feature restaurant website** using only 3 files — zero frameworks
 - 🏠 Built **Homyz real estate platform** as Incapp IT Training final project
 - ✅ Completed **Core Java + DSA + Frontend + Spring Boot Backend** roadmap phases
-- 🎓 Earned **3 certifications** from Incapp IT Training Institute
+- 🎓 Completed 3 certifications from Incapp IT Training Institute (Core Java, DSA, Web Dev); 2 in progress (Backend Dev, AI Engineering)
 
 ---
 
