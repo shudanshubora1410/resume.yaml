@@ -36,11 +36,11 @@
       "area": "Information Technology",
       "studyType": "B.Tech",
       "location": "Greater Noida, Uttar Pradesh, India",
-      "startDate": "2022-08",
-      "endDate": "2026-06",
+      "startDate": "2023-10",
+      "endDate": "2027-06",
       "score": "Pursuing (Final Year)",
       "courses": [
-        "Expected Graduation: June 2026",
+        "Expected Graduation: June 2027",
         "Relevant Coursework: Data Structures, OOP, DBMS, Computer Networks",
         "Academic Exposure: C Programming (Basic), Python (Basic)"
       ]
@@ -357,25 +357,39 @@
   ],
   "certificates": [
     {
-      "name": "Data Structures and Algorithms using Java",
-      "date": "2024",
-      "issuer": "Incapp IT Training Institute, Greater Noida",
-      "url": "https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view",
-      "description": "Completed professional DSA training covering Arrays, Linked Lists (Singly, Doubly, Circular), Stack, Queue, Binary Search Tree, Graph Traversal (BFS/DFS), Hashing, Recursion, Sorting Algorithms, Dynamic Programming, and Backtracking. Completed 200+ assignments and problem-solving exercises in Java."
-    },
-    {
-      "name": "Java Programming - Core Java",
-      "date": "2024",
+      "name": "Core Java",
+      "date": "2025-07",
       "issuer": "Incapp IT Training Institute, Greater Noida",
       "url": "https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view",
-      "description": "Completed comprehensive Core Java training including Java Fundamentals (JVM, JDK, JRE), complete OOP Concepts, Exception Handling, Collections Framework, Multithreading, File I/O, Lambda Expressions, GUI Programming (Swing), and 200+ hands-on assignments with project work."
+      "description": "Completed professional Core Java training (Apr 2025 - Jul 2025) covering Java Fundamentals (JVM, JDK, JRE), OOP Concepts, Exception Handling, Collections Framework, Multithreading, File I/O, Lambda Expressions, and GUI Programming (Swing). Completed 200+ hands-on assignments with project work."
+    },
+    {
+      "name": "Data Structures and Algorithms using Java",
+      "date": "2025-12",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view",
+      "description": "Completed professional DSA training (Aug 2025 - Dec 2025) covering Arrays, Linked Lists (Singly, Doubly, Circular), Stack, Queue, Binary Search Tree, Graph Traversal (BFS/DFS), Hashing, Recursion, Sorting Algorithms, Dynamic Programming, and Backtracking. Completed 200+ assignments and problem-solving exercises in Java."
     },
     {
       "name": "Web Development - HTML, CSS, JavaScript, Bootstrap",
-      "date": "2024",
+      "date": "2026-04",
       "issuer": "Incapp IT Training Institute, Greater Noida",
       "url": "https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view",
-      "description": "Completed full frontend web development course covering HTML5, CSS3 (Flexbox, Grid, Animations), JavaScript (DOM, ES6+, Fetch API), Bootstrap 5, jQuery, Google Sheets API integration, GitHub Pages, and Netlify deployment. Completed 20+ real-world projects including Homyz Real Estate Platform as Final Project."
+      "description": "Completed full frontend web development course (Jan 2026 - Apr 2026) covering HTML5, CSS3 (Flexbox, Grid, Animations), JavaScript (DOM, ES6+, Fetch API), Bootstrap 5, jQuery, Google Sheets API integration, GitHub Pages, and Netlify deployment. Completed 20+ real-world projects including Homyz Real Estate Platform as Final Project."
+    },
+    {
+      "name": "Backend Development - Spring Boot, JPA, MySQL",
+      "date": "2026-09",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "",
+      "description": "Completed backend development training (Apr 2026 - Sep 2026) covering Spring Boot 3.2, Spring MVC, Spring Data JPA, Hibernate ORM, REST API design, MySQL 8, server-based auth, and end-to-end application deployment. Capstone project: ResuMatch - a full-stack recruitment platform with a transparent, rule-based ATS scoring engine."
+    },
+    {
+      "name": "AI Engineering",
+      "date": "2026-10",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "",
+      "description": "Completed AI engineering training (Aug 2026 - Oct 2026) covering applied machine learning concepts, model integration patterns, prompt engineering, and AI-assisted features in production applications. Includes integration of an LLM API (Google Gemini) into a Spring Boot application with deterministic fallback."
     }
   ],
   "languages": [
