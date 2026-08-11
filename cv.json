@@ -1,0 +1,431 @@
+{
+  "basics": {
+    "name": "Shudanshu Sanjay Bora",
+    "label": "Java Developer | Spring Boot | Full Stack | Core Java | DSA | JavaScript | HTML | CSS | Bootstrap | MySQL | Git | B.Tech IT 2026",
+    "email": "shudanshubora1410@gmail.com",
+    "phone": "9978648457",
+    "url": "https://shudanshubora1410.github.io/portfolio-website/",
+    "summary": "Motivated and detail-oriented Java Developer and 4th-year B.Tech Information Technology student at G.L. Bajaj Institute of Technology and Management (GLBITM), Greater Noida. Completed structured professional training in Core Java, Data Structures and Algorithms, and Full Stack Web Development at Incapp IT Training Institute. Built ResuMatch - a full-stack recruitment platform with a transparent, rule-based ATS scoring engine using Java 17, Spring Boot 3.2, and Apache PDFBox - as a Final Year B.Tech IT project at GLBITM. Strong foundation in OOP, DSA problem solving, Spring Boot backend development, and responsive frontend development. Actively seeking internship opportunities in Java Development or Full Stack Web Development.",
+    "location": {
+      "city": "Greater Noida",
+      "region": "Uttar Pradesh",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shudanshubora",
+        "url": "https://www.linkedin.com/in/shudanshubora/"
+      },
+      {
+        "network": "GitHub",
+        "username": "shudanshubora1410",
+        "url": "https://github.com/shudanshubora1410"
+      },
+      {
+        "network": "Portfolio",
+        "username": "shudanshubora1410",
+        "url": "https://shudanshubora1410.github.io/portfolio-website/"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "G.L. Bajaj Institute of Technology and Management (GLBITM)",
+      "area": "Information Technology",
+      "studyType": "B.Tech",
+      "location": "Greater Noida, Uttar Pradesh, India",
+      "startDate": "2022-08",
+      "endDate": "2026-06",
+      "score": "Pursuing (Final Year)",
+      "courses": [
+        "Expected Graduation: June 2026",
+        "Relevant Coursework: Data Structures, OOP, DBMS, Computer Networks",
+        "Academic Exposure: C Programming (Basic), Python (Basic)"
+      ]
+    },
+    {
+      "institution": "S. D. Jain Modern School (CBSE)",
+      "area": "Science - Physics, Chemistry, Mathematics",
+      "studyType": "Class 12th",
+      "location": "India",
+      "startDate": "2021-04",
+      "endDate": "2023-03",
+      "score": "86%",
+      "courses": [
+        "Percentage: 86% | Stream: PCM (Physics, Chemistry, Mathematics)"
+      ]
+    },
+    {
+      "institution": "S. D. Jain Modern School (CBSE)",
+      "area": "General Studies",
+      "studyType": "Class 10th",
+      "location": "India",
+      "startDate": "2019-04",
+      "endDate": "2021-03",
+      "score": "92%",
+      "courses": [
+        "Percentage: 92%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ResuMatch - Rule-Based Recruitment Platform with Transparent ATS",
+      "description": "Built a production-grade full-stack recruitment platform with a transparent, rule-based ATS scoring engine as a Final Year B.Tech IT project at G.L. Bajaj Institute of Technology and Management (GLBITM), Greater Noida. Architected and developed 92 Java files across 13 packages, 11 JPA entities, 11 repositories, 12 services, 7 REST controllers, 17 HTML pages, and a single CSS design system. Implemented a 5-component general scoring algorithm (out of 100) - Formatting (20), Completeness (15), Structure (20), Skills (25), Experience (20) - and a 5-component company-specific scoring algorithm - Must-have (50), Nice-to-have (20), Experience (15), Education (5), Formatting (10). Built a 48-skill canonical dictionary with alias matching (js -> javascript, reactjs -> react, c++ -> cpp) and a regression-tested alias index that prevents shorter aliases from shadowing longer ones (JavaScript not matched as Java). Resume parsing via Apache PDFBox and a custom DOCX reader. Three-sided workflow: Seeker, Recruiter, Admin with role-scoped dashboards. H2 file mode (./data/resumatch.mv.db) by default with a MySQL 8 profile for production. One-click demo seeder populates 3 seekers, 3 recruiters, 6 jobs, 15 applications. Optional Google Gemini integration with a deterministic template fallback.",
+      "highlights": [
+        "92 Java files, 13 packages, 11 JPA entities, 12 services, 7 REST controllers",
+        "5-component general score (out of 100) and 5-component company score (out of 100)",
+        "48-skill canonical dictionary with alias matching and regression-tested alias index",
+        "Three-sided workflow: Seeker, Recruiter, Admin with role-scoped dashboards",
+        "Apache PDFBox parsing, what-if simulator, skills gap, version comparison",
+        "Bulk action by score band, status history with audit trail, moderation queue",
+        "Optional Gemini AI integration with deterministic template fallback",
+        "10 JUnit tests, H2 file mode, MySQL profile, zero paid services"
+      ],
+      "keywords": [
+        "Java 17",
+        "Spring Boot 3.2.5",
+        "Spring Data JPA",
+        "Hibernate ORM",
+        "H2 Database",
+        "MySQL 8",
+        "Apache PDFBox",
+        "Chart.js",
+        "Rule-Based Scoring",
+        "ATS System",
+        "REST API",
+        "Session-Based Auth",
+        "Maven",
+        "HTML5",
+        "CSS3",
+        "Vanilla JavaScript",
+        "Fraunces Font",
+        "JetBrains Mono",
+        "Optional Gemini API",
+        "Full Stack Development",
+        "Backend Development"
+      ],
+      "url": "https://github.com/shudanshubora1410/ResuMatch",
+      "roles": [
+        "Group Leader",
+        "Backend Developer",
+        "Scoring Engine Lead"
+      ],
+      "startDate": "2025-08",
+      "endDate": "2026-07"
+    },
+    {
+      "name": "Cafe Roadway - Premium Dark-Luxury Restaurant Website",
+      "description": "Engineered a full-featured dark-luxury restaurant website with 43+ interactive features using only HTML5, CSS3, and Vanilla JavaScript - zero libraries or frameworks. Built a dynamic Bill Calculator with automated GST computation and WhatsApp API integration for seamless order placement. Implemented Dark/Light Mode toggle with LocalStorage persistence, Live Menu Search, Spin-the-Wheel discount game, and Canvas-based Confetti animation. Integrated Table Booking system, Order Tracker, Review System, Birthday Special section, and Happy Hours countdown timer. Added JSON-LD Schema Markup for full SEO optimization, Open Graph meta tags, 8 custom keyboard shortcuts, and complete mobile responsiveness across all screen sizes.",
+      "highlights": [
+        "43+ interactive features in 3 files (HTML, CSS, JS) - zero frameworks",
+        "Dynamic Bill Calculator with WhatsApp API integration",
+        "Dark/Light Mode with LocalStorage persistence",
+        "Canvas-based Confetti animation, Spin-the-Wheel game",
+        "JSON-LD Schema Markup and full SEO optimization"
+      ],
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Vanilla JavaScript",
+        "Bootstrap 5",
+        "Canvas API",
+        "LocalStorage API",
+        "WhatsApp API",
+        "JSON-LD Schema",
+        "SEO Optimization",
+        "Responsive Web Design"
+      ],
+      "url": "https://shudanshubora1410.github.io/cafe-roadway",
+      "roles": ["Full Stack Developer"],
+      "startDate": "2024-06",
+      "endDate": "2024-08"
+    },
+    {
+      "name": "Homyz - Real Estate Web Platform (Incapp Final Project)",
+      "description": "Built a modern real estate web platform targeting Delhi NCR region covering Noida, Gurgaon, Greater Noida, Faridabad, and South Delhi. Implemented dynamic property filtering by category (Apartments, Villas, Houses, Penthouses) with smooth CSS fade transitions. Integrated Google Sheets API as a completely serverless backend for contact form lead storage - no server or backend required. Added WhatsApp floating CTA button, Google Maps embed, animated locality explorer section, favorites system with heart animation, toast notification system, and animated counter statistics. Built with AOS scroll animations, custom scrollbar styling, and a fully mobile-first responsive design. Delivered as the Final Project of the Web Development course at Incapp IT Training Institute.",
+      "highlights": [
+        "Property filtering by category with smooth CSS transitions",
+        "Google Sheets API as serverless backend - no server required",
+        "WhatsApp floating CTA, Google Maps embed, AOS scroll animations",
+        "Favorites system, toast notifications, animated counters",
+        "Mobile-first responsive design, deployed via GitHub Pages"
+      ],
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap 5",
+        "Google Sheets API",
+        "AOS Animation Library",
+        "Responsive Web Design",
+        "Google Maps API",
+        "GitHub Pages",
+        "Mobile-First Design"
+      ],
+      "url": "https://shudanshubora1410.github.io/Homyz",
+      "roles": ["Frontend Developer"],
+      "startDate": "2024-01",
+      "endDate": "2024-04"
+    },
+    {
+      "name": "Email Sender - Java Desktop Application",
+      "description": "Developed a Java Swing desktop application for automated email sending using Gmail SMTP protocol via JavaMail API. Supports multiple recipients, custom subject lines, message body composition, and file attachment functionality. Implemented secure Gmail App Password authentication with TLS encryption for complete data safety. Demonstrates practical application of Java OOP principles, GUI event handling, and network programming concepts.",
+      "highlights": [
+        "Java Swing GUI with multiple recipients and file attachments",
+        "Gmail SMTP via JavaMail API with TLS encryption",
+        "Demonstrates Java OOP, GUI event handling, network programming"
+      ],
+      "keywords": [
+        "Java",
+        "Java Swing",
+        "JavaMail API",
+        "Gmail SMTP",
+        "TLS Encryption",
+        "OOP",
+        "GUI Programming",
+        "Desktop Application",
+        "Event Handling"
+      ],
+      "url": "https://github.com/shudanshubora1410/Email-Sender-Java",
+      "roles": ["Java Developer"],
+      "startDate": "2024-01",
+      "endDate": "2024-02"
+    },
+    {
+      "name": "LeetCode DSA Solutions - Java",
+      "description": "Maintained a well-organized GitHub repository of Data Structures and Algorithms solutions written in Java, covering all major DSA topics. Topics include Arrays, Linked Lists (Singly and Doubly), Stack, Queue, Binary Search Tree (BST), Graph Traversal (BFS and DFS), Dynamic Programming, Backtracking, Hashing, Recursion, and Sorting and Searching Algorithms. Every solution includes time complexity, space complexity analysis, and clean commented code for readability.",
+      "highlights": [
+        "Covers Arrays, Linked Lists, Stack, Queue, BST, Graph, DP, Backtracking",
+        "Each solution includes time and space complexity analysis",
+        "Clean commented code for readability"
+      ],
+      "keywords": [
+        "Java",
+        "Data Structures",
+        "Algorithms",
+        "LeetCode",
+        "Problem Solving",
+        "Time Complexity Analysis",
+        "Space Complexity Analysis",
+        "BFS and DFS",
+        "Dynamic Programming",
+        "Competitive Programming"
+      ],
+      "url": "https://github.com/shudanshubora1410/LeetCode-Java",
+      "roles": ["Java Developer"],
+      "startDate": "2024-01",
+      "endDate": "2026-08"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java (Core and Advanced)",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "SQL",
+        "C (Basic)",
+        "Python (Basic)"
+      ]
+    },
+    {
+      "name": "Java - Core and Advanced Concepts",
+      "level": "",
+      "keywords": [
+        "Object-Oriented Programming (OOP)",
+        "Encapsulation and Inheritance",
+        "Polymorphism and Abstraction",
+        "Exception Handling",
+        "Collections Framework",
+        "Multithreading and Concurrency",
+        "File I/O and Stream Handling",
+        "Lambda Expressions",
+        "String and Wrapper Classes",
+        "GUI Programming (Swing)"
+      ]
+    },
+    {
+      "name": "Spring Boot and Backend Development",
+      "level": "",
+      "keywords": [
+        "Spring Boot 3.2",
+        "Spring MVC and REST APIs",
+        "Spring Data JPA",
+        "Hibernate ORM",
+        "Apache PDFBox",
+        "Apache POI",
+        "Maven Build Tool",
+        "JavaMail API",
+        "Session-based auth"
+      ]
+    },
+    {
+      "name": "Data Structures and Algorithms (Java)",
+      "level": "",
+      "keywords": [
+        "Arrays and Strings",
+        "Linked Lists (Singly, Doubly, Circular)",
+        "Stack and Queue",
+        "Binary Search Tree (BST)",
+        "Graph - BFS and DFS",
+        "Dynamic Programming",
+        "Backtracking",
+        "Hashing and HashTables",
+        "Recursion",
+        "Sorting and Searching Algorithms"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "",
+      "keywords": [
+        "HTML5 Semantic Markup",
+        "CSS3 Flexbox and Grid",
+        "CSS Animations and Transitions",
+        "Responsive Web Design",
+        "JavaScript DOM Manipulation",
+        "ES6+ Modern JavaScript",
+        "Fetch API",
+        "Bootstrap 5.3",
+        "jQuery",
+        "Chart.js 4.x",
+        "AOS (Animate on Scroll)"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL 8.0",
+        "H2 (file mode)",
+        "SQL Query Writing",
+        "Relational Database Design",
+        "Spring Data JPA"
+      ]
+    },
+    {
+      "name": "DevOps and Tools",
+      "level": "",
+      "keywords": [
+        "Git and GitHub",
+        "GitHub Pages",
+        "Netlify",
+        "VS Code",
+        "IntelliJ IDEA",
+        "Postman (API Testing)"
+      ]
+    },
+    {
+      "name": "APIs and Integrations",
+      "level": "",
+      "keywords": [
+        "Google Sheets API",
+        "JavaMail API (Gmail SMTP)",
+        "WhatsApp API",
+        "Canvas API",
+        "LocalStorage API",
+        "Google Maps API"
+      ]
+    },
+    {
+      "name": "Currently Learning",
+      "level": "",
+      "keywords": [
+        "Advanced Java Collections",
+        "Multithreading and Concurrency",
+        "File Handling and I/O Streams",
+        "GUI Programming (Swing/JavaFX)"
+      ]
+    },
+    {
+      "name": "Upcoming Skills (Roadmap)",
+      "level": "",
+      "keywords": [
+        "React JS",
+        "MongoDB",
+        "Microservices Architecture",
+        "Spring Cloud",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Structures and Algorithms using Java",
+      "date": "2024",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "https://drive.google.com/file/d/1Qfq9rtT66Nk4i6tIKYrohj4-7gfZU3PH/view",
+      "description": "Completed professional DSA training covering Arrays, Linked Lists (Singly, Doubly, Circular), Stack, Queue, Binary Search Tree, Graph Traversal (BFS/DFS), Hashing, Recursion, Sorting Algorithms, Dynamic Programming, and Backtracking. Completed 200+ assignments and problem-solving exercises in Java."
+    },
+    {
+      "name": "Java Programming - Core Java",
+      "date": "2024",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "https://drive.google.com/file/d/1At7ulMDoyDHSCfZnmsDbZqsIiLUflirY/view",
+      "description": "Completed comprehensive Core Java training including Java Fundamentals (JVM, JDK, JRE), complete OOP Concepts, Exception Handling, Collections Framework, Multithreading, File I/O, Lambda Expressions, GUI Programming (Swing), and 200+ hands-on assignments with project work."
+    },
+    {
+      "name": "Web Development - HTML, CSS, JavaScript, Bootstrap",
+      "date": "2024",
+      "issuer": "Incapp IT Training Institute, Greater Noida",
+      "url": "https://drive.google.com/file/d/15v_9J-1QVzaGiln_gW_obuQ26ZbK_12L/view",
+      "description": "Completed full frontend web development course covering HTML5, CSS3 (Flexbox, Grid, Animations), JavaScript (DOM, ES6+, Fetch API), Bootstrap 5, jQuery, Google Sheets API integration, GitHub Pages, and Netlify deployment. Completed 20+ real-world projects including Homyz Real Estate Platform as Final Project."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native / Full Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Competitive Programming and DSA Problem Solving"
+    },
+    {
+      "name": "Java Backend Development"
+    },
+    {
+      "name": "Spring Boot and Microservices"
+    },
+    {
+      "name": "Frontend UI/UX Design"
+    },
+    {
+      "name": "Open Source Contribution"
+    },
+    {
+      "name": "Building Real-World Applications"
+    }
+  ],
+  "awards": [
+    {
+      "title": "ResuMatch - Full Stack Recruitment Platform with Rule-Based ATS",
+      "date": "2026",
+      "awarder": "G.L. Bajaj Institute of Technology and Management (GLBITM)",
+      "summary": "Architected and built ResuMatch - a complete production-grade recruitment platform with a transparent, rule-based ATS scoring engine - using Java 17, Spring Boot 3.2, Apache PDFBox, and H2 (with MySQL profile). 92 Java files, 13 packages, 11 JPA entities, 5-component general score and 5-component company score, 48-skill canonical dictionary, three-sided workflow, optional Gemini integration with template fallback. Delivered as Final Year B.Tech IT project at GLBITM, Greater Noida. Built as a team of four: Shudanshu Sanjay Bora (Group Leader), Ketan Saini, Shivang Singh, Sajal Rathore."
+    },
+    {
+      "title": "Cafe Roadway: 43 Features in 3 Files - No Frameworks",
+      "date": "2024",
+      "awarder": "Self-Initiated Project",
+      "summary": "Built a fully functional premium restaurant website with 43+ interactive features using only HTML, CSS, and Vanilla JavaScript with zero libraries or frameworks - demonstrating deep core language mastery and creative problem solving ability."
+    },
+    {
+      "title": "Homyz - Selected as Incapp Web Development Final Project",
+      "date": "2024",
+      "awarder": "Incapp IT Training Institute, Greater Noida",
+      "summary": "Built and delivered Homyz real estate platform as the official Final Project of the Web Development course at Incapp IT Training Institute. Featured Google Sheets API as serverless backend - no traditional server required."
+    }
+  ]
+}
